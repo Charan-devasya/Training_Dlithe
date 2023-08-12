@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1690862853 source:c:\users\charan\desktop\new folder\collage\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1690863080 source:c:\users\charan\desktop\new folder\collage\pract.c
+	<stdio.h>
+	<stdlib.h>
+
